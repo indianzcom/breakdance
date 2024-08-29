@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Indianz.Com Custom Elements
  * Plugin URI: https://breakdance.com/
- * Description: Boilerplate plugin to save your custom elements created with Element Studio.
+ * Description: Indianz.Com plugin for custom elements created with Element Studio.
  * Author: Indianz.Com
  * Author URI: https://indianz.com/
  * License: GPLv2
