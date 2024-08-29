@@ -5,14 +5,14 @@
  * Plugin URI: https://breakdance.com/
  * Description: Boilerplate plugin to save your custom elements created with Element Studio.
  * Author: Breakdance
- * Author URI: https://breakdance.com/
+ * Author URI: https://indianz.com/
  * License: GPLv2
  * Text Domain: breakdance
  * Domain Path: /languages/
  * Version: 0.0.1
  */
 
-namespace BreakdanceCustomElements;
+namespace IndianzCustomElements;
 
 use function Breakdance\Util\getDirectoryPathRelativeToPluginFolder;
 
