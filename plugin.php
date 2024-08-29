@@ -21,7 +21,7 @@ add_action('breakdance_loaded', function () {
         getDirectoryPathRelativeToPluginFolder(__DIR__) . '/elements',
         'BreakdanceCustomElements',
         'element',
-        'Custom Elements',
+        'Indianz Elements',
         false
     );
 
